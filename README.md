@@ -1,7 +1,7 @@
 # dvrterm
 My wezterm configuration.
 
-#Clone the repo
+# Clone the repo
 
 ```
 git clone https://github.com/dvrlabs/dvrterm ~/.config/wezterm
