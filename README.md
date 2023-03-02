@@ -1,0 +1,2 @@
+# dvrterm
+My wezterm configuration.
