@@ -54,7 +54,7 @@ return {
 		{
 			key = "h",
 			mods = "CTRL|SHIFT",
-			action = act.ActivateTabRelative(-1),
+			action = act.ActivateTabRelative( -1),
 		},
 		{
 			key = "l",
@@ -92,9 +92,9 @@ return {
 			action = act.PasteFrom("Clipboard"),
 		},
 		{
-      key = 'f',
-      mods = 'CMD',
-      action = act.ToggleFullScreen,
-    },
+			key = 'f',
+			mods = 'CMD',
+			action = act.ToggleFullScreen,
+		},
 	},
 }
