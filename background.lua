@@ -3,7 +3,7 @@ return {
     {
       source = {
         File = {
-          path = os.getenv("HOME") .. "/.config/wezterm/bright_forest.gif",
+          path = os.getenv("HOME") .. "/.config/wezterm/background_images/bright_forest.gif",
           speed = 3.0,
         },
       },

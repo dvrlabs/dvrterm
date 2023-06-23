@@ -3,7 +3,7 @@ local k = require("keys")
 local b = require("background")
 
 return {
-	font = wezterm.font("Hack Nerd Font Mono"),
+	font = wezterm.font("JetBrains Mono"),
 	font_size = 14,
 	hide_tab_bar_if_only_one_tab = true,
 	enable_scroll_bar = true,
